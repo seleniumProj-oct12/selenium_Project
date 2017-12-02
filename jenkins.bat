@@ -1,0 +1,2 @@
+cd E:\workspace_oct12\SeleniumProj_oct12
+java -cp E:\workspace_oct12\SeleniumProj_oct12\jars\*;E:\workspace_oct12\SeleniumProj_oct12\bin org.testng.TestNG E:\workspace_oct12\SeleniumProj_oct12\testng.xml

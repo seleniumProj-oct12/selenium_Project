@@ -1,0 +1,27 @@
+
+<suite name="Suite1233333" parallel="tests">
+  
+  <test name="Test">
+    <classes>
+      <class name="day12_testng.NewTest"/>
+    <class name="day12_testng.Calander_Webtable"></class>
+  
+    </classes>
+  </test> 
+  
+  <test name="Test2">
+    <classes>
+      <class name="day15_Robot.Robot_UploadFile"/>
+   
+    </classes>
+  </test> 
+ 
+</suite> 
+
+
+
+
+
+
+
+

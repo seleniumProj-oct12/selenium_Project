@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1233333]" parallel="tests">
+  <test name="Test(failed)" parallel="tests">
+    <classes>
+      <class name="day12_testng.NewTest">
+        <methods>
+          <include name="f"/>
+          <include name="z"/>
+          <include name="a"/>
+        </methods>
+      </class> <!-- day12_testng.NewTest -->
+      <class name="day12_testng.Calander_Webtable">
+        <methods>
+          <include name="calanderTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- day12_testng.Calander_Webtable -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite1233333] -->
